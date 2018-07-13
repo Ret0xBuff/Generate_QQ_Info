@@ -1,0 +1,1 @@
+python Random_Get_Name_Idcard.py
